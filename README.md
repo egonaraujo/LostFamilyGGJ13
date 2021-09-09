@@ -1,6 +1,6 @@
 # Lost Family
 
-Iara is a game made for Global Game Jam 13 where the theme was the sound of a heartbeat
+Lost Family is a game made for Global Game Jam 13 where the theme was the sound of a heartbeat
 
 # Framework
 
