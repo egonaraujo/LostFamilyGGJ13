@@ -1,0 +1,289 @@
+<level width="896" height="768">
+  <Caminho tileset="TileCaminho" exportMode="XML">
+    <tile x="3" y="3" id="1" />
+    <tile x="3" y="6" id="1" />
+    <tile x="3" y="9" id="2" />
+    <tile x="5" y="9" id="3" />
+    <tile x="5" y="11" id="0" />
+    <tile x="8" y="3" id="3" />
+    <tile x="8" y="4" id="0" />
+    <tile x="9" y="4" id="2" />
+    <tile x="9" y="5" id="0" />
+  </Caminho>
+  <CaminhoVert tileset="TileCaminhoVert" exportMode="XML">
+    <tile x="3" y="4" id="0" />
+    <tile x="3" y="5" id="0" />
+    <tile x="3" y="7" id="0" />
+    <tile x="3" y="8" id="0" />
+    <tile x="5" y="10" id="0" />
+    <tile x="5" y="11" id="0" />
+  </CaminhoVert>
+  <CaminhoHoriz tileset="TileCaminhoHoriz" exportMode="XML">
+    <tile x="0" y="6" id="0" />
+    <tile x="1" y="6" id="0" />
+    <tile x="2" y="6" id="0" />
+    <tile x="4" y="3" id="0" />
+    <tile x="4" y="9" id="0" />
+    <tile x="5" y="3" id="0" />
+    <tile x="6" y="3" id="0" />
+    <tile x="7" y="3" id="0" />
+    <tile x="10" y="5" id="0" />
+    <tile x="11" y="5" id="0" />
+    <tile x="12" y="5" id="0" />
+    <tile x="13" y="5" id="0" />
+  </CaminhoHoriz>
+  <Grama tileset="TileGrama" exportMode="XML">
+    <tile x="0" y="0" id="0" />
+    <tile x="0" y="1" id="0" />
+    <tile x="0" y="2" id="0" />
+    <tile x="0" y="3" id="0" />
+    <tile x="0" y="4" id="0" />
+    <tile x="0" y="5" id="0" />
+    <tile x="0" y="7" id="0" />
+    <tile x="0" y="8" id="0" />
+    <tile x="0" y="9" id="0" />
+    <tile x="0" y="10" id="0" />
+    <tile x="0" y="11" id="0" />
+    <tile x="1" y="0" id="0" />
+    <tile x="1" y="1" id="0" />
+    <tile x="1" y="2" id="0" />
+    <tile x="1" y="3" id="0" />
+    <tile x="1" y="4" id="0" />
+    <tile x="1" y="9" id="0" />
+    <tile x="1" y="10" id="0" />
+    <tile x="1" y="11" id="0" />
+    <tile x="2" y="0" id="0" />
+    <tile x="2" y="1" id="0" />
+    <tile x="2" y="3" id="0" />
+    <tile x="2" y="5" id="0" />
+    <tile x="2" y="7" id="0" />
+    <tile x="2" y="9" id="0" />
+    <tile x="2" y="11" id="0" />
+    <tile x="3" y="0" id="0" />
+    <tile x="3" y="1" id="0" />
+    <tile x="3" y="2" id="0" />
+    <tile x="3" y="10" id="0" />
+    <tile x="3" y="11" id="0" />
+    <tile x="4" y="0" id="0" />
+    <tile x="4" y="1" id="0" />
+    <tile x="4" y="4" id="0" />
+    <tile x="4" y="5" id="0" />
+    <tile x="4" y="8" id="0" />
+    <tile x="4" y="11" id="0" />
+    <tile x="5" y="0" id="0" />
+    <tile x="5" y="1" id="0" />
+    <tile x="5" y="2" id="0" />
+    <tile x="5" y="5" id="0" />
+    <tile x="5" y="6" id="0" />
+    <tile x="5" y="7" id="0" />
+    <tile x="6" y="0" id="0" />
+    <tile x="6" y="1" id="0" />
+    <tile x="6" y="4" id="0" />
+    <tile x="6" y="5" id="0" />
+    <tile x="6" y="6" id="0" />
+    <tile x="6" y="7" id="0" />
+    <tile x="6" y="8" id="0" />
+    <tile x="6" y="9" id="0" />
+    <tile x="6" y="11" id="0" />
+    <tile x="7" y="0" id="0" />
+    <tile x="7" y="1" id="0" />
+    <tile x="7" y="2" id="0" />
+    <tile x="7" y="5" id="0" />
+    <tile x="7" y="6" id="0" />
+    <tile x="7" y="7" id="0" />
+    <tile x="7" y="8" id="0" />
+    <tile x="7" y="10" id="0" />
+    <tile x="7" y="11" id="0" />
+    <tile x="8" y="0" id="0" />
+    <tile x="8" y="1" id="0" />
+    <tile x="8" y="2" id="0" />
+    <tile x="8" y="6" id="0" />
+    <tile x="8" y="7" id="0" />
+    <tile x="8" y="8" id="0" />
+    <tile x="8" y="9" id="0" />
+    <tile x="8" y="10" id="0" />
+    <tile x="8" y="11" id="0" />
+    <tile x="9" y="0" id="0" />
+    <tile x="9" y="1" id="0" />
+    <tile x="9" y="3" id="0" />
+    <tile x="9" y="7" id="0" />
+    <tile x="9" y="8" id="0" />
+    <tile x="9" y="9" id="0" />
+    <tile x="9" y="10" id="0" />
+    <tile x="9" y="11" id="0" />
+    <tile x="10" y="0" id="0" />
+    <tile x="10" y="1" id="0" />
+    <tile x="10" y="2" id="0" />
+    <tile x="10" y="3" id="0" />
+    <tile x="10" y="6" id="0" />
+    <tile x="10" y="7" id="0" />
+    <tile x="10" y="8" id="0" />
+    <tile x="10" y="9" id="0" />
+    <tile x="10" y="10" id="0" />
+    <tile x="10" y="11" id="0" />
+    <tile x="11" y="0" id="0" />
+    <tile x="11" y="1" id="0" />
+    <tile x="11" y="2" id="0" />
+    <tile x="11" y="3" id="0" />
+    <tile x="11" y="4" id="0" />
+    <tile x="11" y="7" id="0" />
+    <tile x="11" y="8" id="0" />
+    <tile x="11" y="9" id="0" />
+    <tile x="11" y="10" id="0" />
+    <tile x="11" y="11" id="0" />
+    <tile x="12" y="0" id="0" />
+    <tile x="12" y="1" id="0" />
+    <tile x="12" y="2" id="0" />
+    <tile x="12" y="3" id="0" />
+    <tile x="12" y="7" id="0" />
+    <tile x="12" y="8" id="0" />
+    <tile x="12" y="9" id="0" />
+    <tile x="12" y="10" id="0" />
+    <tile x="12" y="11" id="0" />
+    <tile x="13" y="0" id="0" />
+    <tile x="13" y="1" id="0" />
+    <tile x="13" y="2" id="0" />
+    <tile x="13" y="3" id="0" />
+    <tile x="13" y="6" id="0" />
+    <tile x="13" y="7" id="0" />
+    <tile x="13" y="8" id="0" />
+    <tile x="13" y="9" id="0" />
+    <tile x="13" y="10" id="0" />
+    <tile x="13" y="11" id="0" />
+  </Grama>
+  <Grama2 tileset="TileGrama2" exportMode="XML">
+    <tile x="1" y="8" id="0" />
+    <tile x="2" y="4" id="0" />
+    <tile x="4" y="6" id="0" />
+    <tile x="4" y="10" id="0" />
+    <tile x="8" y="5" id="0" />
+    <tile x="12" y="6" id="0" />
+    <tile x="13" y="4" id="0" />
+  </Grama2>
+  <Grama3 tileset="TileGrama3" exportMode="XML">
+    <tile x="2" y="8" id="0" />
+    <tile x="4" y="2" id="0" />
+    <tile x="5" y="8" id="0" />
+    <tile x="6" y="2" id="0" />
+    <tile x="7" y="9" id="0" />
+    <tile x="10" y="4" id="0" />
+    <tile x="11" y="6" id="0" />
+  </Grama3>
+  <Grama4 tileset="TileGrama4" exportMode="XML">
+    <tile x="1" y="5" id="0" />
+    <tile x="1" y="7" id="0" />
+    <tile x="2" y="2" id="0" />
+    <tile x="2" y="10" id="0" />
+    <tile x="4" y="7" id="0" />
+    <tile x="5" y="4" id="0" />
+    <tile x="6" y="10" id="0" />
+    <tile x="7" y="4" id="0" />
+    <tile x="9" y="2" id="0" />
+    <tile x="9" y="6" id="0" />
+    <tile x="12" y="4" id="0" />
+  </Grama4>
+  <Árvore exportMode="Bitstring">00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000
+00000000000000</Árvore>
+  <Tronco tileset="TileGrama" exportMode="XML" />
+  <Copas1 tileset="TileGrama" exportMode="XML" />
+  <Copas2 tileset="TileCopa2" exportMode="XML">
+    <tile x="0" y="1" id="0" />
+    <tile x="0" y="3" id="0" />
+    <tile x="0" y="9" id="0" />
+    <tile x="0" y="11" id="0" />
+    <tile x="1" y="1" id="0" />
+    <tile x="1" y="11" id="0" />
+    <tile x="2" y="0" id="0" />
+    <tile x="3" y="1" id="0" />
+    <tile x="3" y="7" id="0" />
+    <tile x="4" y="0" id="0" />
+    <tile x="4" y="7" id="0" />
+    <tile x="4" y="9" id="0" />
+    <tile x="4" y="11" id="0" />
+    <tile x="5" y="1" id="0" />
+    <tile x="5" y="8" id="0" />
+    <tile x="5" y="11" id="0" />
+    <tile x="6" y="1" id="0" />
+    <tile x="6" y="3" id="0" />
+    <tile x="6" y="7" id="0" />
+    <tile x="6" y="9" id="0" />
+    <tile x="6" y="10" id="0" />
+  </Copas2>
+  <Toten1Frente tileset="TileCaminho" exportMode="XML" />
+  <Toten2Frente tileset="TileCaminho" exportMode="XML" />
+  <TotenDireita tileset="TileCaminho" exportMode="XML" />
+  <TotenEsquerda tileset="TileCaminho" exportMode="XML" />
+  <TotenTras tileset="TileCaminho" exportMode="XML" />
+  <af1 tileset="TileAF1" exportMode="XML">
+    <tile x="0" y="0" id="0" />
+    <tile x="1" y="2" id="0" />
+    <tile x="5" y="7" id="0" />
+    <tile x="6" y="5" id="0" />
+    <tile x="7" y="0" id="0" />
+    <tile x="7" y="8" id="0" />
+    <tile x="10" y="7" id="0" />
+    <tile x="10" y="10" id="0" />
+    <tile x="12" y="2" id="0" />
+  </af1>
+  <af2 tileset="TileAF2" exportMode="XML">
+    <tile x="2" y="0" id="0" />
+    <tile x="5" y="1" id="0" />
+    <tile x="7" y="6" id="0" />
+    <tile x="8" y="8" id="0" />
+    <tile x="8" y="10" id="0" />
+    <tile x="10" y="0" id="0" />
+    <tile x="10" y="2" id="0" />
+    <tile x="10" y="9" id="0" />
+    <tile x="11" y="3" id="0" />
+    <tile x="12" y="0" id="0" />
+    <tile x="12" y="8" id="0" />
+  </af2>
+  <af3 tileset="TileAF3" exportMode="XML">
+    <tile x="0" y="0" id="0" />
+    <tile x="0" y="10" id="0" />
+    <tile x="3" y="0" id="0" />
+    <tile x="5" y="5" id="0" />
+    <tile x="8" y="1" id="0" />
+    <tile x="9" y="10" id="0" />
+    <tile x="11" y="0" id="0" />
+    <tile x="11" y="7" id="0" />
+    <tile x="11" y="10" id="0" />
+    <tile x="13" y="2" id="0" />
+    <tile x="13" y="11" id="0" />
+  </af3>
+  <af4 tileset="TileAF4" exportMode="XML">
+    <tile x="0" y="2" id="0" />
+    <tile x="0" y="8" id="0" />
+    <tile x="4" y="1" id="0" />
+    <tile x="6" y="6" id="0" />
+    <tile x="7" y="11" id="0" />
+    <tile x="9" y="1" id="0" />
+    <tile x="11" y="9" id="0" />
+    <tile x="13" y="0" id="0" />
+    <tile x="13" y="8" id="0" />
+  </af4>
+  <af5 tileset="TileAF5" exportMode="XML">
+    <tile x="0" y="4" id="0" />
+    <tile x="1" y="0" id="0" />
+    <tile x="1" y="10" id="0" />
+    <tile x="5" y="6" id="0" />
+    <tile x="6" y="0" id="0" />
+    <tile x="9" y="8" id="0" />
+    <tile x="11" y="2" id="0" />
+    <tile x="12" y="11" id="0" />
+  </af5>
+  <af7 tileset="TileCaminho" exportMode="XML" />
+  <af6 tileset="TileCaminho" exportMode="XML" />
+  <Árvore1 tileset="TileCaminho" exportMode="XML" />
+  <Totens />
+</level>

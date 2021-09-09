@@ -1,0 +1,186 @@
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\exploracao.exe
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\exploracao.pdb
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\obj\x86\Debug\exploracao.exe
+c:\users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\obj\x86\Debug\exploracao.pdb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\parede.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\person1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\player.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\TesteLevel.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\caminho1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\arvoreok.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\flecha.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totem.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pix.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Heartbeat.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\menu.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\HeartBeat.xap
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\HeartBeat.xgs
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Sound Bank.xsb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Wave Bank.xwb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A3.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af4.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af5.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af6.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af7.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\caminho2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\CaminhoHoriz.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\chaovazio.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\TopoCopa.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\TopoCopa2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totendireita.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totenesquerda.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totentras.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A1.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A2.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A4.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B1.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B2.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B3.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B4.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C1.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C2.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C3.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C4.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D1.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D2.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D3.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D4.oel
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama4.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\p1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\play1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\play2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\sair1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\sair2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2_1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2_2.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me5.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\i1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m6.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v6.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa3.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa4.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\porta.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\exit.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\menu.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\menuoi.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\oi1.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\oioi.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\gameover.xnb
+C:\Users\dunha\documents\visual studio 2010\Projects\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\youwin.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\parede.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\person1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\player.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\caminho1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\arvoreok.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\flecha.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totem.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\coracao3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pix.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af4.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af5.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af6.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\af7.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\caminho2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\CaminhoHoriz.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\chaovazio.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\TopoCopa.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\TopoCopa2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totendireita.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totenesquerda.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\totentras.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\grama4.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\p1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\play1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\play2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\sair1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\sair2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\toten3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2_1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\b2_2.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\me5.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\i1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\m6.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\v6.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa3.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\pa4.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\porta.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\exit.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\menu.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\menuoi.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\oi1.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\oioi.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\gameover.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sprites\youwin.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Heartbeat.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\menu.xnb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A1.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A2.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A3.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\A4.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B1.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B2.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B3.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\B4.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C1.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C2.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C3.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\C4.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D1.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D2.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D3.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\D4.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\levels\TesteLevel.oel
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\HeartBeat.xgs
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Sound Bank.xsb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\Wave Bank.xwb
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\Content\sounds\HeartBeat.xap
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\exploracao.exe
+C:\temp\exploracao\exploracao\exploracao\bin\x86\Debug\exploracao.pdb
+C:\temp\exploracao\exploracao\exploracao\obj\x86\Debug\exploracao.csprojResolveAssemblyReference.cache
+C:\temp\exploracao\exploracao\exploracao\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\temp\exploracao\exploracao\exploracao\obj\x86\Debug\exploracao.exe
+C:\temp\exploracao\exploracao\exploracao\obj\x86\Debug\exploracao.pdb

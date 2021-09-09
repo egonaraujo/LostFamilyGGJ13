@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sprites\parede.png</Source>
+      <Name>sprites\parede</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\parede.xnb</Output>
+      <Time>2013-01-26T10:43:10.6146043-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\person1.png</Source>
+      <Name>sprites\person1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\person1.xnb</Output>
+      <Time>2013-01-26T13:05:36.2497709-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player.png</Source>
+      <Name>sprites\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\player.xnb</Output>
+      <Time>2013-01-26T13:05:36.296571-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\caminho1.png</Source>
+      <Name>sprites\caminho1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\caminho1.xnb</Output>
+      <Time>2013-01-26T16:40:24.8353222-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\grama1.png</Source>
+      <Name>sprites\grama1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\grama1.xnb</Output>
+      <Time>2013-01-27T03:21:13.5629851-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\arvoreok.png</Source>
+      <Name>sprites\arvoreok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\arvoreok.xnb</Output>
+      <Time>2013-01-26T18:49:19.5054024-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\flecha.png</Source>
+      <Name>sprites\flecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\flecha.xnb</Output>
+      <Time>2013-01-27T13:14:24.0188365-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\totem.png</Source>
+      <Name>sprites\totem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\totem.xnb</Output>
+      <Time>2013-01-26T20:00:25.1335195-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\coracao1.png</Source>
+      <Name>sprites\coracao1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\coracao1.xnb</Output>
+      <Time>2013-01-26T21:48:49.164581-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\coracao2.png</Source>
+      <Name>sprites\coracao2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\coracao2.xnb</Output>
+      <Time>2013-01-26T21:48:56.0909931-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\coracao3.png</Source>
+      <Name>sprites\coracao3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\coracao3.xnb</Output>
+      <Time>2013-01-26T21:48:56.0909931-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\pix.png</Source>
+      <Name>sprites\pix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\pix.xnb</Output>
+      <Time>2013-01-26T21:48:56.0909931-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af1.png</Source>
+      <Name>sprites\af1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af1.xnb</Output>
+      <Time>2013-01-27T00:10:37.8303128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af2.png</Source>
+      <Name>sprites\af2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af2.xnb</Output>
+      <Time>2013-01-27T00:10:37.8303128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af3.png</Source>
+      <Name>sprites\af3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af3.xnb</Output>
+      <Time>2013-01-27T00:10:37.8303128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af4.png</Source>
+      <Name>sprites\af4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af4.xnb</Output>
+      <Time>2013-01-27T00:10:37.8459128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af5.png</Source>
+      <Name>sprites\af5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af5.xnb</Output>
+      <Time>2013-01-27T00:10:37.8615128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af6.png</Source>
+      <Name>sprites\af6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af6.xnb</Output>
+      <Time>2013-01-27T00:10:37.8615128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\af7.png</Source>
+      <Name>sprites\af7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\af7.xnb</Output>
+      <Time>2013-01-27T00:10:37.8771128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\caminho2.png</Source>
+      <Name>sprites\caminho2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\caminho2.xnb</Output>
+      <Time>2013-01-27T00:10:37.8771128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\CaminhoHoriz.png</Source>
+      <Name>sprites\CaminhoHoriz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\CaminhoHoriz.xnb</Output>
+      <Time>2013-01-27T00:10:37.8771128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\chaovazio.png</Source>
+      <Name>sprites\chaovazio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\chaovazio.xnb</Output>
+      <Time>2013-01-27T00:10:37.8771128-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\grama2.png</Source>
+      <Name>sprites\grama2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\grama2.xnb</Output>
+      <Time>2013-01-27T03:21:14.2181862-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\TopoCopa.png</Source>
+      <Name>sprites\TopoCopa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\TopoCopa.xnb</Output>
+      <Time>2013-01-27T00:36:47.5534031-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\TopoCopa2.png</Source>
+      <Name>sprites\TopoCopa2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\TopoCopa2.xnb</Output>
+      <Time>2013-01-27T00:36:47.5690032-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\totendireita.png</Source>
+      <Name>sprites\totendireita</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\totendireita.xnb</Output>
+      <Time>2013-01-27T00:55:04.5633796-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\totenesquerda.png</Source>
+      <Name>sprites\totenesquerda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\totenesquerda.xnb</Output>
+      <Time>2013-01-27T00:55:04.5633796-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\totentras.png</Source>
+      <Name>sprites\totentras</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\totentras.xnb</Output>
+      <Time>2013-01-27T00:55:04.5633796-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\grama3.png</Source>
+      <Name>sprites\grama3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\grama3.xnb</Output>
+      <Time>2013-01-27T03:21:14.2181862-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\grama4.png</Source>
+      <Name>sprites\grama4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\grama4.xnb</Output>
+      <Time>2013-01-27T03:21:14.2181862-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\p1.png</Source>
+      <Name>sprites\p1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\p1.xnb</Output>
+      <Time>2013-01-27T11:25:15.1095566-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\play1.png</Source>
+      <Name>sprites\play1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\play1.xnb</Output>
+      <Time>2013-01-27T12:34:16.7456586-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\play2.png</Source>
+      <Name>sprites\play2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\play2.xnb</Output>
+      <Time>2013-01-27T12:34:16.7612586-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sair1.png</Source>
+      <Name>sprites\sair1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\sair1.xnb</Output>
+      <Time>2013-01-27T12:34:16.7612586-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sair2.png</Source>
+      <Name>sprites\sair2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\sair2.xnb</Output>
+      <Time>2013-01-27T12:34:16.7768587-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\me2.png</Source>
+      <Name>sprites\me2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\me2.xnb</Output>
+      <Time>2013-01-27T14:28:12.4177244-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\me3.png</Source>
+      <Name>sprites\me3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\me3.xnb</Output>
+      <Time>2013-01-29T11:16:56.4915114-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\toten1.png</Source>
+      <Name>sprites\toten1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\toten1.xnb</Output>
+      <Time>2013-01-28T16:49:05.9348811-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\toten2.png</Source>
+      <Name>sprites\toten2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\toten2.xnb</Output>
+      <Time>2013-01-28T16:49:05.9348811-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\toten3.png</Source>
+      <Name>sprites\toten3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\toten3.xnb</Output>
+      <Time>2013-01-28T16:49:05.9348811-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\b1.png</Source>
+      <Name>sprites\b1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\b1.xnb</Output>
+      <Time>2013-01-28T17:08:00.5318855-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\b2.png</Source>
+      <Name>sprites\b2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\b2.xnb</Output>
+      <Time>2013-01-28T17:08:00.5318855-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\b2_1.png</Source>
+      <Name>sprites\b2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\b2_1.xnb</Output>
+      <Time>2013-01-28T17:08:00.5318855-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\b2_2.png</Source>
+      <Name>sprites\b2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\b2_2.xnb</Output>
+      <Time>2013-01-28T17:08:00.5630856-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\me1.png</Source>
+      <Name>sprites\me1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\me1.xnb</Output>
+      <Time>2013-01-29T11:16:54.1671073-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\me5.png</Source>
+      <Name>sprites\me5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\me5.xnb</Output>
+      <Time>2013-01-29T11:17:42.8235928-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Heartbeat.wav</Source>
+      <Name>sounds\Heartbeat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sounds\Heartbeat.xnb</Output>
+      <Time>2013-01-27T12:21:23.4225703-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\menu.wav</Source>
+      <Name>sounds\menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sounds\menu.xnb</Output>
+      <Time>2013-01-27T12:21:23.4381704-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\i1.png</Source>
+      <Name>sprites\i1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\i1.xnb</Output>
+      <Time>2013-01-30T14:03:19.9022006-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\m1.png</Source>
+      <Name>sprites\m1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\m1.xnb</Output>
+      <Time>2013-01-30T14:05:32.1147712-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\m3.png</Source>
+      <Name>sprites\m3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\m3.xnb</Output>
+      <Time>2013-01-30T14:05:32.1303712-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\m6.png</Source>
+      <Name>sprites\m6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\m6.xnb</Output>
+      <Time>2013-01-30T14:05:32.1303712-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\v1.png</Source>
+      <Name>sprites\v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\v1.xnb</Output>
+      <Time>2013-01-30T14:11:25.0359287-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\v3.png</Source>
+      <Name>sprites\v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\v3.xnb</Output>
+      <Time>2013-01-30T14:11:25.0359287-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\v6.png</Source>
+      <Name>sprites\v6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\v6.xnb</Output>
+      <Time>2013-01-30T14:11:25.0359287-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\pa1.png</Source>
+      <Name>sprites\pa1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\pa1.xnb</Output>
+      <Time>2013-01-30T14:13:55.6341436-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\pa3.png</Source>
+      <Name>sprites\pa3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\pa3.xnb</Output>
+      <Time>2013-01-30T14:13:55.6497436-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\pa4.png</Source>
+      <Name>sprites\pa4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\pa4.xnb</Output>
+      <Time>2013-01-30T14:13:55.6497436-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\porta.png</Source>
+      <Name>sprites\porta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\porta.xnb</Output>
+      <Time>2013-01-30T14:48:05.5755714-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\exit.png</Source>
+      <Name>sprites\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\exit.xnb</Output>
+      <Time>2013-01-31T12:45:14.8334246-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\menu.png</Source>
+      <Name>sprites\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\menu.xnb</Output>
+      <Time>2013-01-31T12:45:23.6786401-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\menuoi.png</Source>
+      <Name>sprites\menuoi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\menuoi.xnb</Output>
+      <Time>2013-01-31T12:45:23.6786401-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\oi1.png</Source>
+      <Name>sprites\oi1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\oi1.xnb</Output>
+      <Time>2013-01-31T12:45:23.6786401-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\oioi.png</Source>
+      <Name>sprites\oioi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\oioi.xnb</Output>
+      <Time>2013-01-31T12:45:34.2872752-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gameover.png</Source>
+      <Name>sprites\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\gameover.xnb</Output>
+      <Time>2013-01-31T12:45:42.69569-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\youwin.png</Source>
+      <Name>sprites\youwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\sprites\youwin.xnb</Output>
+      <Time>2013-01-31T12:45:52.2117067-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EBDB6BFE-12B7-4EA8-8135-B3FBCA4E4B2F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracaoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Adriano\Documentos\visual studio 2010\Projects\exploracao\src\exploracao\exploracao\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T13:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-22T22:42:09.8724225-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
